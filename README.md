@@ -1,2 +1,2 @@
-# Pong.
-Jogo em Java Script
+# Pong
+Jogo em desenvolvimento.
